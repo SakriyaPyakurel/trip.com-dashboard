@@ -160,8 +160,6 @@ def data_extractor():
         print('Written to csv files successfully')
     except Exception as e:
         print(f'An error occurred: {e}')
-
 if __name__ == "__main__":
     data_extractor()
     visualize()
-
