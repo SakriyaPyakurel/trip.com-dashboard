@@ -1,0 +1,80 @@
+From,To,Airline,Departure Time,Arrival Time,Price(in dollars)
+Kathmandu All airports,Hong Kong All airports,Thai Airways,2026-01-14 00:25:00,2026-01-14 14:20:00,578
+Kathmandu All airports,Hong Kong All airports,Thai Airways,2026-01-14 00:25:00,2026-01-14 14:45:00,578
+Kathmandu All airports,Hong Kong All airports,Malaysia Airlines,2026-01-14 00:25:00,2026-01-14 14:45:00,610
+Kathmandu All airports,Hong Kong All airports,Air India,2026-01-14 17:30:00,2026-01-15 06:15:00,580
+Kathmandu All airports,Hong Kong All airports,Cathay Pacific,2026-01-14 22:55:00,2026-01-15 05:25:00,523
+Kathmandu All airports,Hong Kong All airports,Air India,2026-01-14 00:25:00,2026-01-14 14:45:00,580
+Kathmandu All airports,Hong Kong All airports,IndiGo,2026-01-14 00:25:00,2026-01-14 14:45:00,476
+Kathmandu All airports,Hong Kong All airports,Thai Airways,2026-01-14 00:25:00,2026-01-14 11:45:00,578
+Kathmandu All airports,Hong Kong All airports,Airlines,2026-01-14 00:25:00,2026-01-14 14:45:00,578
+Kathmandu All airports,Hong Kong All airports,IndiGo,2026-01-14 17:10:00,2026-01-15 07:55:00,476
+Kathmandu All airports,Hong Kong All airports,Singapore Airlines,2026-01-14 00:25:00,2026-01-14 14:45:00,824
+Taipei All airports,Seoul All airports,T'Way Air,2026-01-14 14:05:00,2026-01-14 17:30:00,400
+Taipei All airports,Seoul All airports,Jin Air,2026-01-14 12:40:00,2026-01-14 16:05:00,443
+Taipei All airports,Seoul All airports,Asiana Airlines,2026-01-14 10:45:00,2026-01-14 14:12:30,559
+Taipei All airports,Seoul All airports,Eastar Jet,2026-01-14 10:45:00,2026-01-14 14:20:00,363
+Taipei All airports,Seoul All airports,Scoot,2026-01-14 18:15:00,2026-01-14 21:45:00,356
+Taipei All airports,Seoul All airports,Air Macau,2026-01-14 10:45:00,2026-01-14 14:12:30,295
+Taipei All airports,Seoul All airports,Jeju Air,2026-01-14 13:35:00,2026-01-14 17:00:00,389
+Taipei All airports,Seoul All airports,EVA Air,2026-01-14 10:45:00,2026-01-14 14:12:30,548
+Taipei All airports,Seoul All airports,Tigerair Taiwan,2026-01-14 20:00:00,2026-01-14 23:30:00,355
+Taipei All airports,Seoul All airports,Korean Air,2026-01-14 12:40:00,2026-01-14 16:05:00,497
+Taipei All airports,Seoul All airports,Korean Air,2026-01-14 19:25:00,2026-01-14 22:55:00,518
+Taipei All airports,Seoul All airports,TaichungSeoul,2026-01-14 10:45:00,2026-01-14 14:12:30,222
+Taipei All airports,Seoul All airports,Cathay Pacific,2026-01-14 10:45:00,2026-01-14 14:12:30,609
+Taipei All airports,Seoul All airports,Airlines,2026-01-14 10:45:00,2026-01-14 14:12:30,559
+Taipei All airports,Seoul All airports,Korean Air,2026-01-14 10:45:00,2026-01-14 14:12:30,454
+Taipei All airports,Bangkok All airports,Airlines,2026-01-14 07:40:00,2026-01-14 10:35:00,297
+Taipei All airports,Bangkok All airports,Thai Vietjet Air,2026-01-14 14:30:00,2026-01-14 17:30:00,208
+Taipei All airports,Bangkok All airports,Thai Vietjet Air,2026-01-14 19:50:00,2026-01-14 22:45:00,198
+Taipei All airports,Bangkok All airports,Thai Vietjet Air,2026-01-14 15:15:00,2026-01-14 18:10:00,198
+Taipei All airports,Bangkok All airports,Scoot,2026-01-14 07:40:00,2026-01-14 10:35:00,297
+Taipei All airports,Bangkok All airports,Air Macau,2026-01-14 07:40:00,2026-01-14 10:35:00,292
+Taipei All airports,Bangkok All airports,Thai Lion Air,2026-01-14 21:20:00,2026-01-15 00:15:00,190
+Taipei All airports,Bangkok All airports,Thai Lion Air,2026-01-14 17:00:00,2026-01-14 19:50:00,207
+Taipei All airports,Bangkok All airports,Thai Airways,2026-01-14 13:55:00,2026-01-14 16:50:00,248
+Taipei All airports,Bangkok All airports,AirAsia X Berhad,2026-01-14 07:40:00,2026-01-14 10:35:00,335
+Taipei All airports,Bangkok All airports,Thai Airways,2026-01-14 07:40:00,2026-01-14 10:35:00,248
+Taipei All airports,Bangkok All airports,EVA Air,2026-01-14 07:40:00,2026-01-14 10:35:00,267
+Taipei All airports,Bangkok All airports,Thai Airways,2026-01-14 18:50:00,2026-01-14 21:45:00,248
+Taipei All airports,Bangkok All airports,Cathay Pacific,2026-01-14 07:40:00,2026-01-14 10:35:00,259
+Pokhara All airports,Hong Kong All airports,IndiGo,2026-01-14 07:30:00,2026-01-15 00:15:00,785
+Pokhara All airports,Hong Kong All airports,PKR,2026-01-14 15:00:00,2026-01-15 05:25:00,765
+Pokhara All airports,Hong Kong All airports,Airlines,2026-01-14 07:30:00,2026-01-15 00:15:00,765
+Pokhara All airports,Hong Kong All airports,PKR,2026-01-14 11:55:00,2026-01-15 05:25:00,765
+Pokhara All airports,Hong Kong All airports,PKR,2026-01-14 13:25:00,2026-01-15 05:25:00,765
+Pokhara All airports,Hong Kong All airports,PKR,2026-01-14 16:45:00,2026-01-15 05:25:00,765
+Pokhara All airports,Hong Kong All airports,Cathay Pacific,2026-01-14 07:30:00,2026-01-15 00:15:00,765
+Pokhara All airports,Hong Kong All airports,PKR,2026-01-14 18:10:00,2026-01-15 05:25:00,787
+Pokhara All airports,Hong Kong All airports,Yetiairlines,2026-01-14 07:30:00,2026-01-15 00:15:00,765
+Pokhara All airports,Hong Kong All airports,Buddha Air,2026-01-14 07:30:00,2026-01-15 00:15:00,799
+Pokhara All airports,Hong Kong All airports,Thai Airways,2026-01-14 07:30:00,2026-01-15 00:15:00,930
+Osaka All airports,Tokyo All airports,Jetstar Japan,2026-01-14 07:50:00,2026-01-14 09:10:00,75
+Osaka All airports,Tokyo All airports,All Nippon Airways,2026-01-14 07:50:00,2026-01-14 09:10:00,136
+Osaka All airports,Tokyo All airports,Jetstar Japan,2026-01-14 08:00:00,2026-01-14 09:25:00,95
+Osaka All airports,Tokyo All airports,Japan Airlines,2026-01-14 07:50:00,2026-01-14 09:10:00,139
+Osaka All airports,Tokyo All airports,Starflyer,2026-01-14 14:05:00,2026-01-14 15:25:00,110
+Osaka All airports,Tokyo All airports,Airlines,2026-01-14 07:50:00,2026-01-14 09:10:00,136
+Osaka All airports,Tokyo All airports,Starflyer,2026-01-14 17:35:00,2026-01-14 18:55:00,110
+Osaka All airports,Tokyo All airports,Jetstar Japan,2026-01-14 20:25:00,2026-01-14 21:45:00,90
+Osaka All airports,Tokyo All airports,Jetstar Japan,2026-01-14 21:10:00,2026-01-14 22:30:00,75
+Osaka All airports,Tokyo All airports,Peach,2026-01-14 19:10:00,2026-01-14 20:35:00,83
+Osaka All airports,Tokyo All airports,Starflyer,2026-01-14 19:00:00,2026-01-14 20:20:00,110
+Osaka All airports,Tokyo All airports,Peach,2026-01-14 07:50:00,2026-01-14 09:15:00,88
+Osaka All airports,Tokyo All airports,Starflyer,2026-01-14 07:50:00,2026-01-14 09:10:00,110
+Osaka All airports,Tokyo All airports,Skymark Airlines,2026-01-14 07:50:00,2026-01-14 09:10:00,115
+Taipei All airports,Bangkok All airports,Scoot,2026-01-14 13:55:00,2026-01-14 16:50:00,296
+Taipei All airports,Bangkok All airports,Thai Airways,2026-01-14 13:55:00,2026-01-14 16:50:00,247
+Taipei All airports,Bangkok All airports,EVA Air,2026-01-14 20:45:00,2026-01-14 23:40:00,263
+Taipei All airports,Bangkok All airports,Cathay Pacific,2026-01-14 13:55:00,2026-01-14 16:50:00,259
+Taipei All airports,Bangkok All airports,Thai Lion Air,2026-01-14 21:20:00,2026-01-15 00:15:00,190
+Taipei All airports,Bangkok All airports,Airlines,2026-01-14 13:55:00,2026-01-14 16:50:00,259
+Taipei All airports,Bangkok All airports,AirAsia X Berhad,2026-01-14 13:55:00,2026-01-14 16:50:00,334
+Taipei All airports,Bangkok All airports,Thai Vietjet Air,2026-01-14 15:15:00,2026-01-14 18:10:00,198
+Taipei All airports,Bangkok All airports,Thai Vietjet Air,2026-01-14 14:30:00,2026-01-14 17:30:00,208
+Taipei All airports,Bangkok All airports,Thai Vietjet Air,2026-01-14 19:50:00,2026-01-14 22:45:00,198
+Taipei All airports,Bangkok All airports,Thai Airways,2026-01-14 18:50:00,2026-01-14 21:45:00,247
+Taipei All airports,Bangkok All airports,Vietnam Airlines,2026-01-14 13:55:00,2026-01-14 16:50:00,376
+Taipei All airports,Bangkok All airports,Thai Lion Air,2026-01-14 17:00:00,2026-01-14 19:50:00,207
+Taipei All airports,Bangkok All airports,EVA Air,2026-01-14 13:55:00,2026-01-14 16:50:00,263
